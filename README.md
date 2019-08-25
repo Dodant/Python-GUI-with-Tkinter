@@ -6,6 +6,7 @@
 
 * [TKinter Documentation](https://www.tutorialspoint.com/python/python_gui_programming.htm)
 
-* Weather API : [Open Weather API](https://openweathermap.org)
+* Weather API : [Open Weather Map API](https://openweathermap.org)
 
   
+
